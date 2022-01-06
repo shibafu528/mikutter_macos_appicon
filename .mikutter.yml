@@ -1,0 +1,9 @@
+---
+slug: :macos_appicon
+depends:
+  mikutter: 5.0.0
+  plugin: []
+version: '1.0'
+author: shibafu528
+name: macOS AppIcon
+description: ''
