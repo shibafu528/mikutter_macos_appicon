@@ -12,3 +12,5 @@ Quartz backendなGTK (つまり、GUIの表示にXQuartz等のXサーバを用�
 ```
 mkdir -p ~/.mikutter/plugin/; git clone https://github.com/shibafu528/mikutter_macos_appicon ~/.mikutter/plugin/macos_appicon
 ```
+
+実行には ffi gem が必要です。mikutterをbundlerでセットアップしている場合、プラグインのインストール後にmikutterがインストールされているディレクトリで `bundle install` を実行してください。
